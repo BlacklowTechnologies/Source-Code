@@ -1,0 +1,2 @@
+AutoInject = False
+DiscordLink = true
