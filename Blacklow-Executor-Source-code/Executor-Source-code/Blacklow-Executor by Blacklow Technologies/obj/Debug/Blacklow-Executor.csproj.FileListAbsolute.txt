@@ -1,0 +1,13 @@
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\bin\Debug\Blacklow-Executor by Blacklow Technologies.exe.config
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\bin\Debug\Blacklow-Executor by Blacklow Technologies.exe
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\bin\Debug\Blacklow-Executor by Blacklow Technologies.pdb
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\bin\Debug\CloudyApis.dll
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\obj\Debug\Blacklow-Executor.csproj.AssemblyReference.cache
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\obj\Debug\Blacklow_Executor_by_Blacklow_Technologies.Form1.resources
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\obj\Debug\Blacklow_Executor_by_Blacklow_Technologies.Properties.Resources.resources
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\obj\Debug\Blacklow-Executor.csproj.GenerateResource.cache
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\obj\Debug\Blacklow-Executor.csproj.CoreCompileInputs.cache
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\obj\Debug\Blacklow.48FCBFDA.Up2Date
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\obj\Debug\Blacklow-Executor by Blacklow Technologies.exe
+C:\Users\Emeryck-coe\source\repos\Blacklow-Executor by Blacklow Technologies\Blacklow-Executor by Blacklow Technologies\obj\Debug\Blacklow-Executor by Blacklow Technologies.pdb
